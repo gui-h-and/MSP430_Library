@@ -1,0 +1,1 @@
+"./config.obj" "./led_rgb.obj" "./main.obj" "./push_button.obj" "./termistor.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
